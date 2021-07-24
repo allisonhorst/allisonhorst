@@ -6,6 +6,8 @@
 📝 **Personal website:** [allisonhorst.com](https://www.allisonhorst.com/)
 
 🎨 **R & data science artwork repo:** [github.com/allisonhorst/stats-illustrations/](https://github.com/allisonhorst/stats-illustrations/)
+
+🐦 **Twitter:** [@allison_horst](https://twitter.com/allison_horst)
  
 
 <img align="right" src="https://github.com/allisonhorst/allisonhorst/blob/main/horst_rtist.png" width="300">
