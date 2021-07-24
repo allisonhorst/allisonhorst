@@ -16,7 +16,9 @@ Hi there! I teach environmental data science at the Bren School of Environmental
 
 ### What am I up to? 
 
-- 🔭 I’m currently developing curriculum for our new [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) degree program at UCSB! 
+- 🔭 I’m currently developing curriculum for our new [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) degree program at UCSB! Feel free to check out my very Under Construction new courses: 
+    -  [EDS 212 - Essential Math for Environmental Data Science](https://allisonhorst.github.io/EDS_212_essential-math/)
+    -  [EDS 221 - Scientific Programming Essentials](https://allisonhorst.github.io/EDS_221_programming-essentials/)
 
 - 🌱 One of my recent projects is the [`palmerpenguins`](https://allisonhorst.github.io/palmerpenguins/) R package, which I developed with Drs. [Alison Presmanes Hill](https://alison.rbind.io/) (RStudio) and [Kristen B. Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) (University of Alaska Fairbanks). The package provides a dataset, `penguins` with structural size measurements for three penguin species recorded by Dr. Gorman and colleagues at the Palmer Station Long Term Ecological Research site, Antarctica. The `penguins` data is a near drop-in replacement for Anderson's `iris` dataset.
 
