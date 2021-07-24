@@ -1,4 +1,10 @@
-### Hi there 👋
+### Allison Horst
+
+#### Assistant Teaching Professor, UC Santa Barbara
+
+
+
+Hi there! I teach environmental data science at the Bren School of Environmental Science and Management at UCSB. 
 
 <!--
 **allisonhorst/allisonhorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
