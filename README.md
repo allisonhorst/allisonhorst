@@ -5,7 +5,7 @@
   
 📝 **Personal website:** [allisonhorst.github.io](https://www.allisonhorst.com/)
 
-🎨 **R & data science artwork website:** [allisonhorst.com](www.allisonhorst.com)
+🎨 **R & data science artwork website:** [www.allisonhorst.com](https://allisonhorst.com/)
 
 🐦 **Twitter:** [@allison_horst](https://twitter.com/allison_horst)
  
