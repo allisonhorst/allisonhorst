@@ -3,9 +3,9 @@
 <h2 align="center">Data Scientist Advocate</h2>
 
   
-📝 **Personal website:** [allisonhorst.com](https://www.allisonhorst.com/)
+📝 **Personal website:** [allisonhorst.github.io](https://www.allisonhorst.com/)
 
-🎨 **R & data science artwork repo:** [github.com/allisonhorst/stats-illustrations/](https://github.com/allisonhorst/stats-illustrations/)
+🎨 **R & data science artwork website:** [allisonhorst.com](www.allisonhorst.com)
 
 🐦 **Twitter:** [@allison_horst](https://twitter.com/allison_horst)
  
@@ -18,9 +18,9 @@ Hi there! I'm a Data Scientist Advocate at [Observable](https://observablehq.com
 
 - 🔭 I recently played a leadership role in implementing the new [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) degree program at UCSB! 
 
-- 🌱 One of my recent projects was the [`palmerpenguins`](https://allisonhorst.github.io/palmerpenguins/) R package, which I developed with Drs. [Alison Presmanes Hill](https://alison.rbind.io/) (Voltron Data) and [Kristen B. Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) (University of Alaska Fairbanks). The package provides a dataset, `penguins` with structural size measurements for three penguin species recorded by Dr. Gorman and colleagues at the Palmer Station Long Term Ecological Research site, Antarctica. The `penguins` data is a near drop-in replacement for Anderson's `iris` dataset.
+- 🌱 One of my recent projects was the [`palmerpenguins`](https://allisonhorst.github.io/palmerpenguins/) R package, which I developed with Drs. [Alison Presmanes Hill](https://alison.rbind.io/) (Voltron Data) and [Kristen B. Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) (University of Alaska Fairbanks). The package provides a dataset, `penguins` with structural size measurements for three penguin species recorded by Dr. Gorman and colleagues at the Palmer Station Long Term Ecological Research site, Antarctica. The `penguins` data is a near drop-in replacement for Anderson's `iris` dataset, and has been adopted in data science tools, languages and platforms around the world.
     
-- 💻 I'm working with [Dr. Julien Brun](https://brunj7.github.io/about) to create a more expansive and versatile R data package [lterdatasampler](https://lter.github.io/lterdatasampler/), which contains sampler datasets from each of the 28 [Long Term Ecological Research Network](https://lternet.edu/) sites, for use in environmental data science and statistics courses. 
+- 💻 With [Dr. Julien Brun](https://brunj7.github.io/about) I created a more expansive and versatile R data package [lterdatasampler](https://lter.github.io/lterdatasampler/), which contains sampler datasets from each of the 28 [Long Term Ecological Research Network](https://lternet.edu/) sites, for use in environmental data science and statistics courses. 
 
 ### Experience
 
