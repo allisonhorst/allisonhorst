@@ -1,6 +1,6 @@
 <h1 align="center"> ALLISON HORST </h1>
 
-<h2 align="center">Data Scientist Advocate</h2>
+<h2 align="center">Developer Marketing Manager</h2>
 
   
 📝 **Personal website:** [allisonhorst.github.io](https://www.allisonhorst.com/)
@@ -12,7 +12,7 @@
 
 <img align="right" src="https://github.com/allisonhorst/allisonhorst/blob/main/horst_rtist.png" width="300">
 
-Hi there! I'm a Data Scientist Advocate at [Observable](https://observablehq.com/), working to support and learn from data scientists who want to explore, analyze, and visualize data together. I am also an artist with a background in *plein air* landscape oil painting - though more recently, I've been building up a library of open artwork for data science and statistics education. I love creating open educational content and resources, developing & leading data science courses and workshop, and engaging with communities to support learners and users of data science tools. 
+Hi there! I'm a Developer Marketing Manager at [Observable](https://observablehq.com/), working to support and learn from data scientists who want to access, explore, analyze, and visualize data together. I am also an artist with a background in *plein air* landscape oil painting - though more recently, I've been building up a library of [open artwork for data science](https://allisonhorst.com/). I love creating open educational content and resources, developing & leading data science courses and workshop, and engaging with communities to support anyone who can benefit from better data science workflows, tools, and collaboration. 
 
 ### What am I up to? 
 
@@ -24,7 +24,8 @@ Hi there! I'm a Data Scientist Advocate at [Observable](https://observablehq.com
 
 ### Experience
 
-- 2022 - present: Data Scientist Advocate, [ObservableHQ](https://observablehq.com/)
+- Currently: Developer Marketing Manager, [ObservableHQ](https://observablehq.com/)
+- 2022 - 2023: Data Scientist Advocate, [ObservableHQ](https://observablehq.com/)
 - 2013 - 2022: Teaching Faculty (UC Santa Barbara)
 - 2019 - 2020: Artist-in-Residence, RStudio
 - 2018 - 2019: Artist-in-Residence, National Center for Ecological Analysis & Synthesis
@@ -34,7 +35,7 @@ Hi there! I'm a Data Scientist Advocate at [Observable](https://observablehq.com
 - 2019: Outstanding Teaching Award, UC Santa Barbara
 - 2018: Outstanding Teaching Award, Bren School of Environmental Science and Management
 
-## Community
+### Community
 
 - Co-Founder, Santa Barbara R-Ladies
 - Co-Founder & Organizer, UCSB TidyTuesday (2019 - 2021)
