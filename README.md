@@ -1,6 +1,6 @@
 <h1 align="center"> ALLISON HORST </h1>
 
-<h2 align="center">Developer Marketing Manager</h2>
+<h2 align="center">Senior Developer Marketing Manager</h2>
 
   
 📝 **Personal website:** [allisonhorst.github.io](https://www.allisonhorst.com/)
@@ -12,7 +12,7 @@
 
 <img align="right" src="https://github.com/allisonhorst/allisonhorst/blob/main/horst_rtist.png" width="300">
 
-Hi there! I'm a Developer Marketing Manager at [Observable](https://observablehq.com/), working to support and learn from data scientists who want to access, explore, analyze, and visualize data together. I am also an artist with a background in *plein air* landscape oil painting - though more recently, I've been building up a library of [open artwork for data science](https://allisonhorst.com/). I love creating open educational content and resources, developing & leading data science courses and workshop, and engaging with communities to support anyone who can benefit from better data science workflows, tools, and collaboration. 
+Hi there! I'm a Developer Marketing Manager at [Observable](https://observablehq.com/), working as part of our Developer Relations team to support and learn from data scientists who want to access, explore, analyze, and visualize data together. I am also an artist with a background in *plein air* landscape oil painting - though more recently, I've been building up a library of [open artwork for data science](https://allisonhorst.com/). I love creating open educational content and resources, developing & leading data science courses and workshop, and engaging with communities to support anyone who can benefit from better data science workflows, tools, and collaboration. 
 
 ### What am I up to? 
 
