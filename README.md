@@ -3,7 +3,7 @@
 <h2 align="center">Senior Developer Marketing Manager</h2>
 
   
-📝 **Personal website:** [allisonhorst.github.io](https://www.allisonhorst.com/)
+📝 **Personal website:** [allisonhorst.github.io](https://www.allisonhorst.github.io/)
 
 🎨 **R & data science artwork website:** [www.allisonhorst.com](https://allisonhorst.com/)
 
